@@ -3,5 +3,5 @@ y = 2
 unit_price = 3
 print(unit_price)
 
-sudent = (2+3)
+sudent = (2+3 + 6+7)
 print(sudent)
